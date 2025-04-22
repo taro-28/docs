@@ -1,0 +1,8 @@
+{
+  "name": "docs",
+  "private": true,
+  "packageManager": "pnpm@10.6.2",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
