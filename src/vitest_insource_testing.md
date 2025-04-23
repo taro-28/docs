@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# VitestのIn-Source Testingが良い感じ
+# VitestのIn-Source Testingが便利
 
 2025-04-23 [Mita.ts #5](https://x.com/Mita_ts/status/1754566666666666666)
 
