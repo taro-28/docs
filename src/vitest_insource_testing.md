@@ -4,7 +4,7 @@ marp: true
 
 # VitestのIn-Source Testingが便利
 
-2025-04-23 [Mita.ts #5](https://x.com/Mita_ts/status/1754566666666666666)
+2025-04-23 [Mita.ts #5](https://mitats.connpass.com/event/340678/)
 
 taro([@taroro_tarotaro](https://x.com/taroro_tarotaro))
 
@@ -51,6 +51,15 @@ if (import.meta.vitest) {
 ```
 
 https://vitest.dev/guide/in-source
+
+---
+
+# VitestのIn-Source Testingとは
+
+わりと普通に動く
+- 各種vitestの関数
+- Snapshotテスト
+- モック
 
 ---
 
