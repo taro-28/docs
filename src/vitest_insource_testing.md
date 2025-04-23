@@ -14,6 +14,7 @@ taro([@taroro_tarotaro](https://x.com/taroro_tarotaro))
 
 - taro([@taroro_tarotaro](https://x.com/taroro_tarotaro))
 - [ベースマキナ](https://about.basemachina.com/)のソフトウェアエンジニア
+- TypeScript, Go, GraphQL, etc.
 
 ![bg right:40% 60%](https://github.com/taro-28.png)
 
@@ -32,7 +33,7 @@ taro([@taroro_tarotaro](https://x.com/taroro_tarotaro))
 
 # VitestのIn-Source Testingとは
 
-その名の通り、実装と同じファイルにテストがかけるやつ
+その名の通り、実装と同じファイルにテストが書けるやつ
 
 ```typescript
 export function add(...args: number[]) {
@@ -254,7 +255,8 @@ export const dataConverter = (data: Data) => {
 
 # AIとの相性が良い（気がする）
 
-- AI Agentを使っていると、特に指示しなくてもテストに気づくことが多い（気がする）
+AI Agentを使っていると、特に指示しなくてもテストに気づくことが多い（気がする）
+
 - テストの内容も情報源として、実装をしてくれる（気がする）
 - テストの修正を指示しなくていい（気がする）
 
@@ -262,7 +264,8 @@ export const dataConverter = (data: Data) => {
 
 # AIとの相性が良い（気がする）
 
-- AI Agentを使っていると、特に指示しなくてもテストに気づくことが多い（気がする）
+AI Agentを使っていると、特に指示しなくてもテストに気づくことが多い（気がする）
+
 - テストの内容も情報源として、実装をしてくれる（気がする）
 - テストの修正を指示しなくていい（気がする）
 
@@ -279,3 +282,5 @@ export const dataConverter = (data: Data) => {
 ---
 
 # ぜひIn-Source Testing使ってみてください！
+
+![bg right:40% 60%](https://github.com/taro-28.png)
